@@ -26,7 +26,7 @@ Shows amount of players.<br>
 * Create a new API Script in the API Page on Roll20.
 * Paste the script, and Restart API Sandbox.
 
-*note: Make sure you copied all of the script. *
+*note: Make sure you copied all of the script.*
 
 If the script crashes, or bugs are found, 
 please send the crash report from the console. 
